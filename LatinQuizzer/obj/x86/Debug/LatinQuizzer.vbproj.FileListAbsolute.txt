@@ -1,0 +1,12 @@
+C:\Users\Matt\documents\visual studio 2010\Projects\LatinQuizzer\LatinQuizzer\bin\Debug\LatinQuizzer.exe
+C:\Users\Matt\documents\visual studio 2010\Projects\LatinQuizzer\LatinQuizzer\bin\Debug\LatinQuizzer.pdb
+C:\Users\Matt\documents\visual studio 2010\Projects\LatinQuizzer\LatinQuizzer\bin\Debug\LatinQuizzer.xml
+C:\Users\Matt\documents\visual studio 2010\Projects\LatinQuizzer\LatinQuizzer\obj\x86\Debug\LatinQuizzer.Resources.resources
+C:\Users\Matt\documents\visual studio 2010\Projects\LatinQuizzer\LatinQuizzer\obj\x86\Debug\LatinQuizzer.vbproj.GenerateResource.Cache
+C:\Users\Matt\documents\visual studio 2010\Projects\LatinQuizzer\LatinQuizzer\obj\x86\Debug\LatinQuizzer.exe
+C:\Users\Matt\documents\visual studio 2010\Projects\LatinQuizzer\LatinQuizzer\obj\x86\Debug\LatinQuizzer.xml
+C:\Users\Matt\documents\visual studio 2010\Projects\LatinQuizzer\LatinQuizzer\obj\x86\Debug\LatinQuizzer.pdb
+C:\Users\Matt\documents\visual studio 2010\Projects\LatinQuizzer\LatinQuizzer\obj\x86\Debug\LatinQuizzer.Input.resources
+C:\Users\Matt\documents\visual studio 2010\Projects\LatinQuizzer\LatinQuizzer\obj\x86\Debug\LatinQuizzer.Quiz.resources
+C:\Users\Matt\documents\visual studio 2010\Projects\LatinQuizzer\LatinQuizzer\obj\x86\Debug\LatinQuizzer.choose.resources
+C:\Users\Matt\documents\visual studio 2010\Projects\LatinQuizzer\LatinQuizzer\obj\x86\Debug\LatinQuizzer.quiz2.resources
